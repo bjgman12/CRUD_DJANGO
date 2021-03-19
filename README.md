@@ -1,4 +1,4 @@
-# django-crud-lab
+# CRUD w/ DJANGO
 
-> this repo is an example of how to set up django CRUD actions 
+> this repo is an my example of how to set up CRUD actions using the DJANGO framework
 
